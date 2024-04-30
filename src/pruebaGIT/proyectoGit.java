@@ -6,7 +6,7 @@ public class proyectoGit {
 	public static void main(String[] args) {
 		Integer numero = null;
 		Scanner teclado = new Scanner(System.in);
-		System.out.println(numero);
+		System.out.println(numero+1);
 		
 	}
 }
