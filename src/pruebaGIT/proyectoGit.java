@@ -1,8 +1,12 @@
 package pruebaGIT;
 
+import java.util.Scanner;
+
 public class proyectoGit {
 	public static void main(String[] args) {
-		Integer numero;
+		Integer numero = null;
+		Scanner teclado = new Scanner(System.in);
+		System.out.println(numero);
 		
 	}
 }
