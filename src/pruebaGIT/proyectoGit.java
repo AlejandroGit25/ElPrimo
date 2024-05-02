@@ -13,7 +13,7 @@ public class proyectoGit {
 	}
 	
 	public static void HolaMundo(Integer numero) {
-		System.out.println("Hola Mundo "+ numero);
+		System.out.println("Hola Mundo "+ numero+1);
 		
 	}
 }
