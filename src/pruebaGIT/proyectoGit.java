@@ -1,7 +1,11 @@
 package pruebaGIT;
 
 import java.util.Scanner;
-
+/**
+ * 
+ * @author mañana
+ *
+ */
 public class proyectoGit {
 	public static void main(String[] args) {
 		Integer numero = null;
@@ -11,7 +15,7 @@ public class proyectoGit {
 		
 		
 	}
-	
+
 	public static void HolaMundo(Integer numero) {
 		System.out.println("Hola Mundo "+ numero+1);
 		
