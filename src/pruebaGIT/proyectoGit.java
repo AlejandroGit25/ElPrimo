@@ -7,7 +7,13 @@ public class proyectoGit {
 		Integer numero = null;
 		Scanner teclado = new Scanner(System.in);
 		numero=teclado.nextInt();
-		System.out.println(numero+1);
+		HolaMundo(numero);
+		
+		
+	}
+	
+	public static void HolaMundo(Integer numero) {
+		System.out.println("Hola Mundo "+ numero);
 		
 	}
 }
